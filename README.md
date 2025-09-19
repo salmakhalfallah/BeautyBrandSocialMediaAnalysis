@@ -2,7 +2,8 @@
 Assignment 1 of CS 4372 lecture, involving linear regression using stochastic gradient descent and ordinary least squares regression. Includes pre-processing, exploratory data analysis, modeling, and model diagnostics.
 
 ## Authors
-[list authors and associated Github links here]
+Salma Khalfallah [github.com/salmakhalfallah]
+Hana Al-Jaser [github.com/HanaAl-Jaser]
 
 ## Dataset selected:
-[insert link here]
+Facebook Metrics: [https://archive.ics.uci.edu/dataset/368/facebook+metrics]
