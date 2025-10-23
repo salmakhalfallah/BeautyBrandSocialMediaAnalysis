@@ -1,5 +1,5 @@
-# CS4372 Assignment 1
-Assignment 1 of CS 4372 lecture, involving linear regression using stochastic gradient descent and ordinary least squares regression. Includes pre-processing, exploratory data analysis, modeling, and model diagnostics.
+# Beauty Brand Social Media Analysis
+An inferential regression problem analyzing the social media metrics of a popular beauty brand online in order to gauge what factors indicates the success of a social media page. 
 
 ## Authors
 Salma Khalfallah [github.com/salmakhalfallah]
