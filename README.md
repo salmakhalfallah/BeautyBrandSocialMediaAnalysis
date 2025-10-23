@@ -2,7 +2,7 @@
 An inferential regression problem analyzing the social media metrics of a popular beauty brand online in order to gauge what factors indicates the success of a social media page. 
 
 ## Authors
-Salma Khalfallah [github.com/salmakhalfallah]
+Salma Khalfallah [github.com/salmakhalfallah] \\
 Hana Al-Jaser [github.com/HanaAl-Jaser]
 
 ## Dataset selected:
